@@ -1,11 +1,11 @@
-# [Jyotiman Lahkar]
+# Jyotiman Lahkar
 🚀✨ Fearless Explorer of Code | 💻 Software Sorcerer
 
 ![Profile Banner](https://example.com/path/to/banner-image.png)
 
 Hey there, welcome to my GitHub profile! 👋
 
-I'm [Jyotiman Lahkar], a passionate software sorcerer skilled in both frontend and backend development. With a blend of creativity and technical prowess, I embark on extraordinary coding quests to bring ideas to life.
+I'm Jyotiman Lahkar, a passionate software sorcerer skilled in both frontend and backend development. With a blend of creativity and technical prowess, I embark on extraordinary coding quests to bring ideas to life.
 
 ## ⚡️ Expertise
 
