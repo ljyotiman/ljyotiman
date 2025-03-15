@@ -37,6 +37,10 @@ I'm Jyotiman Lahkar, a passionate software sorcerer skilled in both frontend and
 > Games
 
 ![FIFA](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
+
+## Courses
+
+-  https://ude.my/UC-f5ffcbf9-8ec1-4ae1-81ee-a4e08991a7d6
  
 ## ✨ Highlights
 
