@@ -3,8 +3,6 @@
 
 Hey there, welcome to my GitHub profile! 👋
 
-I'm Jyotiman Lahkar, a passionate software sorcerer skilled in both frontend and backend development. With a blend of creativity and technical prowess, I embark on extraordinary coding quests to bring ideas to life.
-
 ## ⚡️ Expertise
 
 > Languages
@@ -51,12 +49,6 @@ I'm Jyotiman Lahkar, a passionate software sorcerer skilled in both frontend and
 - 💡 Passionate about collaborating with like-minded adventurers to create impactful projects that make a difference.
 
 ## 🌟 Let's Connect!
-
-Join me on this magical journey as we unlock the secrets of code and create extraordinary things together. Feel free to reach out to me through the following channels:
-
-- 📧 Email: [jyotimanlahkar86@gmail.com](mailto:jyotimanlahkar86@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/jyotiman-lahkar86](https://www.linkedin.com/in/jyotiman-lahkar86/)
-- 🌐 Personal Website: [jyotimanlahkar.me](https://www.jyotimanlahkar.me)
 
 ![Ask me anything](	https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
