@@ -1,4 +1,4 @@
-# Jyotiman Lahkar
+# JL
 🚀✨ Fearless Explorer of Code | 💻 Software Sorcerer
 
 Hey there, welcome to my GitHub profile! 👋
